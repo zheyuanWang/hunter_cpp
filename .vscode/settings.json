@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.json": "jsonc",
+        "algorithm": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "iosfwd": "cpp",
+        "xlocale": "cpp",
+        "xstring": "cpp"
+    }
+}
