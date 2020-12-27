@@ -7,6 +7,7 @@ class Solution {
 public:
     bool exist(int x){
         cout<<" ffff "<<x;
+        return true;
     }
 };
 
