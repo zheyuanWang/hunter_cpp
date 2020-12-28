@@ -47,12 +47,11 @@ void printArray(vector<int> arr, int n)
 
 
 int main(){
-	vector<int> arr = {10, 2, 6, 9, 1, 5}; 
+	vector<int> arr = {10, 2, 5, 9, 1, 5}; 
 	int n = arr.size();
-    cout<<"running";
     Solution ss;
 	ss.fastSort(arr, 0, n-1);  //size比末尾index大1,要减掉, 否则越界
-	cout << "Sorted array: \n"; 
+	//cout << "Sorted array: \n"; 
 	printArray(arr, n); 
 	return 0; 
 } 
