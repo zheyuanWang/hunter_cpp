@@ -42,5 +42,6 @@
         "unordered_map": "cpp",
         "array": "cpp",
         "string_view": "cpp"
-    }
+    },
+    "cmake.configureOnOpen": false
 }
